@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# WhatsApp session folder (credentials)
+session/
+
+# Environment variables (if any)
+.env
+
+# OS generated files (optional)
+.DS_Store
+Thumbs.db
