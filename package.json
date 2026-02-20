@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Live WhatsApp bot using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.5",
+    "chalk": "^5.3.0",
+    "pino": "^8.14.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
